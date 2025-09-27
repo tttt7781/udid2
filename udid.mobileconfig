@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadType</key><string>Profile Service</string>
+    <key>PayloadIdentifier</key><string>get-udid</string>
+    <key>PayloadUUID</key><string>8C7AD0B8-3900-44DF-A52F-3C4F92921807</string>
+    <key>PayloadVersion</key><integer>1</integer>
+    <key>PayloadDisplayName</key><string>获取UDID</string>
+    <key>PayloadDescription</key><string>点安装即可看到UDID</string>
+    <key>PayloadContent</key>
+    <dict>
+        <key>URL</key>
+        <!-- 下面这行改成你的任意 https 地址即可 -->
+        <string>https://zhiquyue.top/tool/udid2/udid.html</string>
+        <key>DeviceAttributes</key>
+        <array><string>UDID</string></array>
+    </dict>
+</dict>
+</plist>
