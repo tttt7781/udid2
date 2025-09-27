@@ -12,10 +12,11 @@
     <dict>
         <key>URL</key>
         <!-- 下面这行改成你的任意 https 地址即可 -->
-        <string>https://tttt7781.github.io/udid2/</string>
+        <string>https://tttt7781.github.io/udid2/udid.html</string>
         <key>DeviceAttributes</key>
         <array><string>UDID</string></array>
     </dict>
 </dict>
 
 </plist>
+
